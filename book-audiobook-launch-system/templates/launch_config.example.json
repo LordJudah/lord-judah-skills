@@ -1,0 +1,51 @@
+{
+  "project_name": "BOOK_TITLE_LAUNCH",
+  "root": ".",
+  "packages": [
+    {
+      "name": "E-Book",
+      "path": "delivery/packages/BOOK_Ebook_AUTHOR.zip",
+      "required_members": [
+        "BOOK_Ebook_AUTHOR/BOOK_Ebook_AUTHOR.pdf",
+        "BOOK_Ebook_AUTHOR/README.txt"
+      ],
+      "minimum_file_count": 2
+    },
+    {
+      "name": "Audiobook",
+      "path": "delivery/packages/BOOK_Audiobook_AUTHOR.zip",
+      "required_members": [
+        "BOOK_Audiobook_AUTHOR/README.txt"
+      ],
+      "minimum_file_count": 3
+    },
+    {
+      "name": "Premium Bundle",
+      "path": "delivery/packages/BOOK_Premium_Bundle_AUTHOR.zip",
+      "required_members": [
+        "BOOK_Premium_Bundle_AUTHOR/README.txt"
+      ],
+      "minimum_file_count": 4
+    }
+  ],
+  "assets": {
+    "reels": {
+      "directory": "reels",
+      "glob": "*.mp4",
+      "expected_count": 7,
+      "width": 1080,
+      "height": 1920,
+      "codec": "h264"
+    },
+    "feed_covers": {
+      "directory": "social_visuals",
+      "glob": "*.png",
+      "expected_count": 7
+    },
+    "audio_clips": {
+      "directory": "campaign_audio_clips",
+      "glob": "*.mp3",
+      "expected_count": 7
+    }
+  }
+}

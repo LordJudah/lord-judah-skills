@@ -1,0 +1,15 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+__MACOSX/
+*.swp
+.idea/
+.vscode/
+
+# Rendered / build artifacts
+node_modules/
+*.log
+
+# Python
+__pycache__/
+*.pyc

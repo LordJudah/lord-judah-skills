@@ -1,0 +1,31 @@
+{BOOK TITLE}
+By {AUTHOR}
+Published by {PUBLISHER}
+
+THANK YOU
+
+Thank you for purchasing {BOOK TITLE}. This package is licensed for your personal use unless a separate educational or institutional license has been provided.
+
+E-BOOK
+
+Open {EBOOK_FILENAME} with a current PDF or EPUB reader.
+
+AUDIOBOOK
+
+Play the numbered MP3 files in ascending order. The track numbers are part of the filenames. Preserve the folder structure when moving the audiobook to another device.
+
+PREMIUM BUNDLE
+
+The Premium Bundle includes the complete E-book and Audiobook. Use the E-book for study and annotation, and the audiobook for a voice-led listening experience.
+
+SUPPORT
+
+If any file does not open or a download appears incomplete, contact:
+{SUPPORT_EMAIL}
+
+OFFICIAL LINKS
+
+Website: {WEBSITE_URL}
+Additional Program or Academy: {SECONDARY_URL}
+
+© {YEAR} {AUTHOR_OR_COMPANY}. All rights reserved.
