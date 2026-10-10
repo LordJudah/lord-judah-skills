@@ -5,6 +5,9 @@
   "formatVersion": "1",
   "entrypoint": "SKILL.md",
   "layout": "one directory per skill at repository root; each contains SKILL.md",
+  "repository": "https://github.com/LordJudah/lord-judah-skills",
+  "branch": "main",
+  "importMethod": "Paste the per-skill importUrl into Manus/Cue: Skills -> + Add -> Import from GitHub",
   "skillCount": 78,
   "countsBySource": {
     "user-created": 35,
@@ -19,7 +22,9 @@
       "source": "built-in",
       "fileCount": 2,
       "sizeBytes": 16906,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/automation-and-scheduling",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/automation-and-scheduling/SKILL.md"
     },
     {
       "name": "book-audiobook-launch-system",
@@ -29,7 +34,9 @@
       "source": "user-created",
       "fileCount": 9,
       "sizeBytes": 36130,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/book-audiobook-launch-system",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/book-audiobook-launch-system/SKILL.md"
     },
     {
       "name": "builtin-llm-models",
@@ -39,7 +46,9 @@
       "source": "built-in",
       "fileCount": 2,
       "sizeBytes": 22345,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/builtin-llm-models",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/builtin-llm-models/SKILL.md"
     },
     {
       "name": "canva-mcp",
@@ -49,7 +58,9 @@
       "source": "built-in",
       "fileCount": 1,
       "sizeBytes": 6270,
-      "hasSupportingAssets": false
+      "hasSupportingAssets": false,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/canva-mcp",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/canva-mcp/SKILL.md"
     },
     {
       "name": "city-views-campaign-manager",
@@ -59,7 +70,9 @@
       "source": "user-created",
       "fileCount": 1,
       "sizeBytes": 3358,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/city-views-campaign-manager",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/city-views-campaign-manager/SKILL.md"
     },
     {
       "name": "data-analysis",
@@ -69,7 +82,9 @@
       "source": "built-in",
       "fileCount": 1,
       "sizeBytes": 2367,
-      "hasSupportingAssets": false
+      "hasSupportingAssets": false,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/data-analysis",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/data-analysis/SKILL.md"
     },
     {
       "name": "data-api",
@@ -79,7 +94,9 @@
       "source": "built-in",
       "fileCount": 3,
       "sizeBytes": 8664,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/data-api",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/data-api/SKILL.md"
     },
     {
       "name": "data-backup-restoration",
@@ -89,7 +106,9 @@
       "source": "built-in",
       "fileCount": 3,
       "sizeBytes": 30292,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/data-backup-restoration",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/data-backup-restoration/SKILL.md"
     },
     {
       "name": "deep-research",
@@ -99,7 +118,9 @@
       "source": "built-in",
       "fileCount": 1,
       "sizeBytes": 7139,
-      "hasSupportingAssets": false
+      "hasSupportingAssets": false,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/deep-research",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/deep-research/SKILL.md"
     },
     {
       "name": "excel-generator",
@@ -109,7 +130,9 @@
       "source": "built-in",
       "fileCount": 1,
       "sizeBytes": 23847,
-      "hasSupportingAssets": false
+      "hasSupportingAssets": false,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/excel-generator",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/excel-generator/SKILL.md"
     },
     {
       "name": "finance-pro-playbooks",
@@ -119,7 +142,9 @@
       "source": "built-in",
       "fileCount": 12,
       "sizeBytes": 707195,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/finance-pro-playbooks",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/finance-pro-playbooks/SKILL.md"
     },
     {
       "name": "game-asset-catalog",
@@ -129,7 +154,9 @@
       "source": "built-in",
       "fileCount": 6,
       "sizeBytes": 220578,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/game-asset-catalog",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/game-asset-catalog/SKILL.md"
     },
     {
       "name": "github-gem-seeker",
@@ -139,7 +166,9 @@
       "source": "built-in",
       "fileCount": 1,
       "sizeBytes": 4160,
-      "hasSupportingAssets": false
+      "hasSupportingAssets": false,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/github-gem-seeker",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/github-gem-seeker/SKILL.md"
     },
     {
       "name": "global-hip-hop-history-tour-outreach",
@@ -149,7 +178,9 @@
       "source": "user-created",
       "fileCount": 2,
       "sizeBytes": 14785,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/global-hip-hop-history-tour-outreach",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/global-hip-hop-history-tour-outreach/SKILL.md"
     },
     {
       "name": "gws-best-practices",
@@ -159,7 +190,9 @@
       "source": "built-in",
       "fileCount": 1,
       "sizeBytes": 5671,
-      "hasSupportingAssets": false
+      "hasSupportingAssets": false,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/gws-best-practices",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/gws-best-practices/SKILL.md"
     },
     {
       "name": "handoff",
@@ -169,7 +202,9 @@
       "source": "built-in",
       "fileCount": 1,
       "sizeBytes": 1546,
-      "hasSupportingAssets": false
+      "hasSupportingAssets": false,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/handoff",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/handoff/SKILL.md"
     },
     {
       "name": "higgsfield-soul-training",
@@ -179,7 +214,9 @@
       "source": "user-created",
       "fileCount": 6,
       "sizeBytes": 39334,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/higgsfield-soul-training",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/higgsfield-soul-training/SKILL.md"
     },
     {
       "name": "hip-hop-workshop-outreach",
@@ -189,7 +226,9 @@
       "source": "user-created",
       "fileCount": 1,
       "sizeBytes": 10799,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/hip-hop-workshop-outreach",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/hip-hop-workshop-outreach/SKILL.md"
     },
     {
       "name": "html-video-production",
@@ -199,7 +238,9 @@
       "source": "built-in",
       "fileCount": 722,
       "sizeBytes": 7768690,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/html-video-production",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/html-video-production/SKILL.md"
     },
     {
       "name": "image-processing",
@@ -209,7 +250,9 @@
       "source": "built-in",
       "fileCount": 1,
       "sizeBytes": 4292,
-      "hasSupportingAssets": false
+      "hasSupportingAssets": false,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/image-processing",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/image-processing/SKILL.md"
     },
     {
       "name": "imagegen",
@@ -219,7 +262,9 @@
       "source": "built-in",
       "fileCount": 5,
       "sizeBytes": 65219,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/imagegen",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/imagegen/SKILL.md"
     },
     {
       "name": "internet-skill-finder",
@@ -229,7 +274,9 @@
       "source": "built-in",
       "fileCount": 3,
       "sizeBytes": 120370,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/internet-skill-finder",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/internet-skill-finder/SKILL.md"
     },
     {
       "name": "judah-bless-ent-tax-filing",
@@ -239,7 +286,9 @@
       "source": "user-created",
       "fileCount": 1,
       "sizeBytes": 8121,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/judah-bless-ent-tax-filing",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/judah-bless-ent-tax-filing/SKILL.md"
     },
     {
       "name": "judah-bless-release-system",
@@ -249,7 +298,9 @@
       "source": "user-created",
       "fileCount": 2,
       "sizeBytes": 10152,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/judah-bless-release-system",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/judah-bless-release-system/SKILL.md"
     },
     {
       "name": "link-payment",
@@ -259,7 +310,9 @@
       "source": "built-in",
       "fileCount": 1,
       "sizeBytes": 7081,
-      "hasSupportingAssets": false
+      "hasSupportingAssets": false,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/link-payment",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/link-payment/SKILL.md"
     },
     {
       "name": "ljb-brand-campaign-launcher",
@@ -269,7 +322,9 @@
       "source": "user-created",
       "fileCount": 2,
       "sizeBytes": 8696,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/ljb-brand-campaign-launcher",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/ljb-brand-campaign-launcher/SKILL.md"
     },
     {
       "name": "ljb-content-generation-pipeline",
@@ -279,7 +334,9 @@
       "source": "user-created",
       "fileCount": 5,
       "sizeBytes": 19463,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/ljb-content-generation-pipeline",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/ljb-content-generation-pipeline/SKILL.md"
     },
     {
       "name": "ljb-course-launch-workflow",
@@ -288,8 +345,10 @@
       "description": "End-to-end course launch workflow for Judah Bless Ent / True He(ART) Academy. Use when launching a new online course: creates the Shopify product, generates AI cover image and promotional assets (16:9 banner + 9:16 Story), writes platform-optimized launch captions (Instagram, Threads, Twitter/X), and builds the ManyChat keyword automation flow. Covers the full pipeline from product creation to social launch.",
       "source": "user-created",
       "fileCount": 7,
-      "sizeBytes": 22760,
-      "hasSupportingAssets": true
+      "sizeBytes": 24122,
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/ljb-course-launch-workflow",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/ljb-course-launch-workflow/SKILL.md"
     },
     {
       "name": "ljb-viral-thread-transmuter",
@@ -299,7 +358,9 @@
       "source": "user-created",
       "fileCount": 6,
       "sizeBytes": 25747,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/ljb-viral-thread-transmuter",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/ljb-viral-thread-transmuter/SKILL.md"
     },
     {
       "name": "lord-judah-agent-council",
@@ -309,7 +370,9 @@
       "source": "user-created",
       "fileCount": 2,
       "sizeBytes": 29228,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/lord-judah-agent-council",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/lord-judah-agent-council/SKILL.md"
     },
     {
       "name": "lord-judah-bmi-registration",
@@ -319,7 +382,9 @@
       "source": "user-created",
       "fileCount": 4,
       "sizeBytes": 13314,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/lord-judah-bmi-registration",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/lord-judah-bmi-registration/SKILL.md"
     },
     {
       "name": "lord-judah-brand-system",
@@ -329,7 +394,9 @@
       "source": "user-created",
       "fileCount": 6,
       "sizeBytes": 85365,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/lord-judah-brand-system",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/lord-judah-brand-system/SKILL.md"
     },
     {
       "name": "lord-judah-cult-followers",
@@ -339,7 +406,9 @@
       "source": "user-created",
       "fileCount": 1,
       "sizeBytes": 4147,
-      "hasSupportingAssets": false
+      "hasSupportingAssets": false,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/lord-judah-cult-followers",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/lord-judah-cult-followers/SKILL.md"
     },
     {
       "name": "lord-judah-fiscal-sponsor-grants",
@@ -349,7 +418,9 @@
       "source": "user-created",
       "fileCount": 1,
       "sizeBytes": 4656,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/lord-judah-fiscal-sponsor-grants",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/lord-judah-fiscal-sponsor-grants/SKILL.md"
     },
     {
       "name": "lord-judah-heygen-song-commercial",
@@ -359,7 +430,9 @@
       "source": "user-created",
       "fileCount": 2,
       "sizeBytes": 5437,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/lord-judah-heygen-song-commercial",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/lord-judah-heygen-song-commercial/SKILL.md"
     },
     {
       "name": "lord-judah-hub-orchestrator",
@@ -369,7 +442,9 @@
       "source": "user-created",
       "fileCount": 1,
       "sizeBytes": 4836,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/lord-judah-hub-orchestrator",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/lord-judah-hub-orchestrator/SKILL.md"
     },
     {
       "name": "lord-judah-ig-viral-amplifier",
@@ -379,7 +454,9 @@
       "source": "user-created",
       "fileCount": 1,
       "sizeBytes": 5748,
-      "hasSupportingAssets": false
+      "hasSupportingAssets": false,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/lord-judah-ig-viral-amplifier",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/lord-judah-ig-viral-amplifier/SKILL.md"
     },
     {
       "name": "lord-judah-job-application",
@@ -389,7 +466,9 @@
       "source": "user-created",
       "fileCount": 1,
       "sizeBytes": 3075,
-      "hasSupportingAssets": false
+      "hasSupportingAssets": false,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/lord-judah-job-application",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/lord-judah-job-application/SKILL.md"
     },
     {
       "name": "lord-judah-meta-multi-song-ads",
@@ -399,7 +478,9 @@
       "source": "user-created",
       "fileCount": 1,
       "sizeBytes": 6797,
-      "hasSupportingAssets": false
+      "hasSupportingAssets": false,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/lord-judah-meta-multi-song-ads",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/lord-judah-meta-multi-song-ads/SKILL.md"
     },
     {
       "name": "lord-judah-music-video-production",
@@ -409,7 +490,9 @@
       "source": "user-created",
       "fileCount": 5,
       "sizeBytes": 20672,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/lord-judah-music-video-production",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/lord-judah-music-video-production/SKILL.md"
     },
     {
       "name": "lord-judah-realtime-resume-updater",
@@ -419,7 +502,9 @@
       "source": "user-created",
       "fileCount": 1,
       "sizeBytes": 9396,
-      "hasSupportingAssets": false
+      "hasSupportingAssets": false,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/lord-judah-realtime-resume-updater",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/lord-judah-realtime-resume-updater/SKILL.md"
     },
     {
       "name": "lord-judah-seedance-video",
@@ -429,7 +514,9 @@
       "source": "user-created",
       "fileCount": 2,
       "sizeBytes": 9241,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/lord-judah-seedance-video",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/lord-judah-seedance-video/SKILL.md"
     },
     {
       "name": "lord-judah-video-production",
@@ -439,7 +526,9 @@
       "source": "user-created",
       "fileCount": 7,
       "sizeBytes": 31865,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/lord-judah-video-production",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/lord-judah-video-production/SKILL.md"
     },
     {
       "name": "lord-judah-visual-canon",
@@ -449,7 +538,9 @@
       "source": "user-created",
       "fileCount": 1,
       "sizeBytes": 5858,
-      "hasSupportingAssets": false
+      "hasSupportingAssets": false,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/lord-judah-visual-canon",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/lord-judah-visual-canon/SKILL.md"
     },
     {
       "name": "mailchimp-signup-repair",
@@ -459,7 +550,9 @@
       "source": "user-created",
       "fileCount": 2,
       "sizeBytes": 13449,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/mailchimp-signup-repair",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/mailchimp-signup-repair/SKILL.md"
     },
     {
       "name": "make-scenario-health-manager",
@@ -469,7 +562,9 @@
       "source": "user-created",
       "fileCount": 2,
       "sizeBytes": 13267,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/make-scenario-health-manager",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/make-scenario-health-manager/SKILL.md"
     },
     {
       "name": "manus-api",
@@ -479,7 +574,9 @@
       "source": "built-in",
       "fileCount": 85,
       "sizeBytes": 547651,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/manus-api",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/manus-api/SKILL.md"
     },
     {
       "name": "manus-config",
@@ -489,7 +586,9 @@
       "source": "built-in",
       "fileCount": 1,
       "sizeBytes": 37793,
-      "hasSupportingAssets": false
+      "hasSupportingAssets": false,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/manus-config",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/manus-config/SKILL.md"
     },
     {
       "name": "manus-tasks",
@@ -499,7 +598,9 @@
       "source": "built-in",
       "fileCount": 1,
       "sizeBytes": 12349,
-      "hasSupportingAssets": false
+      "hasSupportingAssets": false,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/manus-tasks",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/manus-tasks/SKILL.md"
     },
     {
       "name": "meta-ads-analyzer",
@@ -509,7 +610,9 @@
       "source": "built-in",
       "fileCount": 10,
       "sizeBytes": 20258,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/meta-ads-analyzer",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/meta-ads-analyzer/SKILL.md"
     },
     {
       "name": "music-prompter",
@@ -519,7 +622,9 @@
       "source": "built-in",
       "fileCount": 1,
       "sizeBytes": 11731,
-      "hasSupportingAssets": false
+      "hasSupportingAssets": false,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/music-prompter",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/music-prompter/SKILL.md"
     },
     {
       "name": "office",
@@ -529,7 +634,9 @@
       "source": "built-in",
       "fileCount": 1,
       "sizeBytes": 1772,
-      "hasSupportingAssets": false
+      "hasSupportingAssets": false,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/office",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/office/SKILL.md"
     },
     {
       "name": "office-documents",
@@ -539,7 +646,9 @@
       "source": "built-in",
       "fileCount": 7,
       "sizeBytes": 160558,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/office-documents",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/office-documents/SKILL.md"
     },
     {
       "name": "persistent-computing",
@@ -549,7 +658,9 @@
       "source": "built-in",
       "fileCount": 5,
       "sizeBytes": 31134,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/persistent-computing",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/persistent-computing/SKILL.md"
     },
     {
       "name": "printify-mockup-upgrade",
@@ -559,7 +670,9 @@
       "source": "user-created",
       "fileCount": 4,
       "sizeBytes": 10841,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/printify-mockup-upgrade",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/printify-mockup-upgrade/SKILL.md"
     },
     {
       "name": "rap-dojo-daily-post",
@@ -569,7 +682,9 @@
       "source": "user-created",
       "fileCount": 4,
       "sizeBytes": 17061,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/rap-dojo-daily-post",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/rap-dojo-daily-post/SKILL.md"
     },
     {
       "name": "rap-profiles-daily-post",
@@ -579,7 +694,9 @@
       "source": "user-created",
       "fileCount": 4,
       "sizeBytes": 18033,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/rap-profiles-daily-post",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/rap-profiles-daily-post/SKILL.md"
     },
     {
       "name": "rap-profiles-volume-two-youtube-handoff",
@@ -589,7 +706,9 @@
       "source": "user-created",
       "fileCount": 3,
       "sizeBytes": 7248,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/rap-profiles-volume-two-youtube-handoff",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/rap-profiles-volume-two-youtube-handoff/SKILL.md"
     },
     {
       "name": "read-special-images",
@@ -599,7 +718,9 @@
       "source": "built-in",
       "fileCount": 4,
       "sizeBytes": 26813,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/read-special-images",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/read-special-images/SKILL.md"
     },
     {
       "name": "similarweb-analytics",
@@ -609,7 +730,9 @@
       "source": "built-in",
       "fileCount": 1,
       "sizeBytes": 4675,
-      "hasSupportingAssets": false
+      "hasSupportingAssets": false,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/similarweb-analytics",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/similarweb-analytics/SKILL.md"
     },
     {
       "name": "skill-creator",
@@ -619,7 +742,9 @@
       "source": "built-in",
       "fileCount": 7,
       "sizeBytes": 42571,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/skill-creator",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/skill-creator/SKILL.md"
     },
     {
       "name": "slides",
@@ -629,7 +754,9 @@
       "source": "built-in",
       "fileCount": 3,
       "sizeBytes": 64995,
-      "hasSupportingAssets": false
+      "hasSupportingAssets": false,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/slides",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/slides/SKILL.md"
     },
     {
       "name": "tailscale-network",
@@ -639,7 +766,9 @@
       "source": "built-in",
       "fileCount": 3,
       "sizeBytes": 17799,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/tailscale-network",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/tailscale-network/SKILL.md"
     },
     {
       "name": "triggers",
@@ -649,7 +778,9 @@
       "source": "built-in",
       "fileCount": 3,
       "sizeBytes": 106413,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/triggers",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/triggers/SKILL.md"
     },
     {
       "name": "trip",
@@ -659,7 +790,9 @@
       "source": "built-in",
       "fileCount": 4,
       "sizeBytes": 43230,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/trip",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/trip/SKILL.md"
     },
     {
       "name": "tts-prompter",
@@ -669,7 +802,9 @@
       "source": "built-in",
       "fileCount": 3,
       "sizeBytes": 14498,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/tts-prompter",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/tts-prompter/SKILL.md"
     },
     {
       "name": "typst-pdf-maker",
@@ -679,7 +814,9 @@
       "source": "built-in",
       "fileCount": 13,
       "sizeBytes": 111008,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/typst-pdf-maker",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/typst-pdf-maker/SKILL.md"
     },
     {
       "name": "video-generation",
@@ -689,7 +826,9 @@
       "source": "built-in",
       "fileCount": 20,
       "sizeBytes": 185062,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/video-generation",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/video-generation/SKILL.md"
     },
     {
       "name": "video-generator",
@@ -699,7 +838,9 @@
       "source": "built-in",
       "fileCount": 1,
       "sizeBytes": 19785,
-      "hasSupportingAssets": false
+      "hasSupportingAssets": false,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/video-generator",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/video-generator/SKILL.md"
     },
     {
       "name": "web-audio-soundscape-player",
@@ -709,7 +850,9 @@
       "source": "user-created",
       "fileCount": 2,
       "sizeBytes": 9823,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/web-audio-soundscape-player",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/web-audio-soundscape-player/SKILL.md"
     },
     {
       "name": "webdev",
@@ -719,7 +862,9 @@
       "source": "built-in",
       "fileCount": 64,
       "sizeBytes": 703625,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/webdev",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/webdev/SKILL.md"
     },
     {
       "name": "webdev-seo",
@@ -729,7 +874,9 @@
       "source": "built-in",
       "fileCount": 1,
       "sizeBytes": 7122,
-      "hasSupportingAssets": false
+      "hasSupportingAssets": false,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/webdev-seo",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/webdev-seo/SKILL.md"
     },
     {
       "name": "webdev-worklocally",
@@ -739,7 +886,9 @@
       "source": "built-in",
       "fileCount": 1,
       "sizeBytes": 33932,
-      "hasSupportingAssets": false
+      "hasSupportingAssets": false,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/webdev-worklocally",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/webdev-worklocally/SKILL.md"
     },
     {
       "name": "website-traffic-checker",
@@ -749,7 +898,9 @@
       "source": "built-in",
       "fileCount": 3,
       "sizeBytes": 27118,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/website-traffic-checker",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/website-traffic-checker/SKILL.md"
     },
     {
       "name": "workflow-composer",
@@ -759,7 +910,9 @@
       "source": "built-in",
       "fileCount": 1,
       "sizeBytes": 16186,
-      "hasSupportingAssets": false
+      "hasSupportingAssets": false,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/workflow-composer",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/workflow-composer/SKILL.md"
     },
     {
       "name": "youtube-pro-primary",
@@ -769,7 +922,9 @@
       "source": "user-created",
       "fileCount": 1,
       "sizeBytes": 1528,
-      "hasSupportingAssets": false
+      "hasSupportingAssets": false,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/youtube-pro-primary",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/youtube-pro-primary/SKILL.md"
     },
     {
       "name": "youtube-video-research",
@@ -779,7 +934,9 @@
       "source": "built-in",
       "fileCount": 5,
       "sizeBytes": 43710,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/youtube-video-research",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/youtube-video-research/SKILL.md"
     },
     {
       "name": "zapier-apify-access-map",
@@ -789,7 +946,9 @@
       "source": "user-created",
       "fileCount": 4,
       "sizeBytes": 13034,
-      "hasSupportingAssets": true
+      "hasSupportingAssets": true,
+      "importUrl": "https://github.com/LordJudah/lord-judah-skills/tree/main/zapier-apify-access-map",
+      "skillMdUrl": "https://raw.githubusercontent.com/LordJudah/lord-judah-skills/main/zapier-apify-access-map/SKILL.md"
     }
   ]
 }
